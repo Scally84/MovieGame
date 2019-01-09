@@ -4,6 +4,7 @@ package moviegamecore;
  *
  * @author Stephen
  */
+
 public class Actor
 {
     //attributes

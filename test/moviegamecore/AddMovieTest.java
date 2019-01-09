@@ -7,6 +7,7 @@ import java.util.*;
  *
  * @author Stephen
  */
+
 public class AddMovieTest
 {
     GameCoord game;

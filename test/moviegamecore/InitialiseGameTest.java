@@ -6,6 +6,7 @@ import org.junit.*;
  *
  * @author Stephen
  */
+
 public class InitialiseGameTest
 {
     GameCoord game;
